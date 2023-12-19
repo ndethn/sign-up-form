@@ -17,3 +17,5 @@ The inputs, by default have a very light border (#E5E7EB), but we’ve included 
 The other variation is the selected input, which should have a blue border and subtle box-shadow. This can be done with the :focus pseudo-class you’ve learned about in an earlier lesson.
 Do not worry about making your project look nice on mobile, but DO resize your browser a little bit to make sure that it’s not completely broken at different desktop resolutions.
 Checking that the password fields match each other requires javascript. Try to implement this if you feel confident, otherwise just validate each field separately.
+
+My form --> revolve around signing up for a newsletter of the newest EDM songs released each week
