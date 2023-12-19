@@ -19,3 +19,5 @@ Do not worry about making your project look nice on mobile, but DO resize your b
 Checking that the password fields match each other requires javascript. Try to implement this if you feel confident, otherwise just validate each field separately.
 
 My form --> revolve around signing up for a newsletter of the newest EDM songs released each week
+
+Photo by Danny Howe from Unsplash
