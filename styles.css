@@ -31,13 +31,17 @@ img {
 }
 
 #img-header img {
-    width: 4rem;
+    width: auto;
+    height: auto;
+    max-width: 5rem;
+    max-height: 5rem;
     padding: 10px;
 }
 
 .form-section {
     background-color: #FAF9F6;
     padding: 1.5rem;
+    display: 100vw;
 }
 
 form {
