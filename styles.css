@@ -20,12 +20,20 @@ img {
     font-size: 2rem;
 }
 
-
-
 .img-section {
     background-color: rgba(0, 0, 0, 50%)
 }
 
 .form-section {
     background-color: #FAF9F6;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+
+}
+
+input {
+    width: 20vw;
 }
