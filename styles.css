@@ -8,3 +8,7 @@ body {
 img {
     width: 5rem;
 }
+
+#img-section {
+    background-color: rgba(0, 0, 0, 50%)
+}
