@@ -2,13 +2,21 @@ body {
     background-image: url("concert.jpg");
     background-position: center;
     background-repeat: no-repeat;
-    color: #FAF9F6;
+    color: black;
 }
 
 img {
     width: 5rem;
 }
 
-#img-section {
+#sign-up-header {
+    color: #FAF9F6;
+}
+
+.img-section {
     background-color: rgba(0, 0, 0, 50%)
+}
+
+.form-section {
+    background-color: #FAF9F6;
 }
