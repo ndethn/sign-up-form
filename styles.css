@@ -4,3 +4,7 @@ body {
     background-repeat: no-repeat;
     color: #FAF9F6;
 }
+
+img {
+    width: 5rem;
+}
