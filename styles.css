@@ -96,9 +96,15 @@ button {
     background-color: #508B8B;
     color: white;
     font-weight: bold;
+    font-size: larger;
     padding: .5rem 2.5rem;
     margin-top: 20px;
     margin-left: 20px;
     border: none;
     border-radius: 10px;
+}
+
+a {
+    color: #508B8B;
+    text-decoration: none;
 }
