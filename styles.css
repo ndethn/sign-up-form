@@ -38,6 +38,7 @@ img {
 
 #img-header {
     background-color: rgba(0, 0, 0, 50%);
+    min-width: 34vw;
 }
 
 #img-header img {
