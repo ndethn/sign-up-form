@@ -3,6 +3,7 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     color: black;
+    margin: 0;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 
@@ -17,6 +18,8 @@ img {
 
 .main-container {
     display: flex;
+    height: 100vh;
+    justify-content: space-between  ;
 }
 
 #sign-up-header {
@@ -39,8 +42,11 @@ img {
 }
 
 .img-section > p {
-    color: #FAF9F6;
+    color: rgba(255, 255, 255, 50%);
+    padding: 1rem;
+    font-size: smaller;
 }
+
 
 .form-section {
     background-color: #FAF9F6;
