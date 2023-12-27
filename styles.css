@@ -49,6 +49,11 @@ body {
     font-size: smaller;
 }
 
+.img-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
 
 .form-section {
     display: flex;
