@@ -49,8 +49,10 @@ img {
 
 
 .form-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
     background-color: #FAF9F6;
-    display: 100vw;
     border-radius: 10px;
     box-shadow: 3px 3px 5px grey;
     margin: 10px;
