@@ -38,6 +38,10 @@ img {
     padding: 10px;
 }
 
+.img-section > p {
+    color: #FAF9F6;
+}
+
 .form-section {
     background-color: #FAF9F6;
     padding: 1.5rem;
