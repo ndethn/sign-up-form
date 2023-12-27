@@ -47,6 +47,7 @@ img {
     padding: 1.5rem;
     display: 100vw;
     border-radius: 10px;
+    box-shadow: 3px 3px 5px grey;
 }
 
 form {
@@ -61,7 +62,7 @@ input {
 }
 
 input:focus {
-    box-shadow: 2px 1px 5px grey;
+    box-shadow: 2px 2px 5px grey;
 }
 
 .body-text {
