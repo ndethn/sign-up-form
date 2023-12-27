@@ -46,6 +46,7 @@ img {
     background-color: #FAF9F6;
     padding: 1.5rem;
     display: 100vw;
+    border-radius: 10px;
 }
 
 form {
@@ -56,6 +57,10 @@ form {
 input {
     max-width: 20vw;
     margin-bottom: 1rem;
+}
+
+input:focus {
+    box-shadow: 2px 1px 5px grey;
 }
 
 .body-text {
