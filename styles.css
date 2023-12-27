@@ -33,13 +33,16 @@ body {
 #img-header {
     background-color: rgba(0, 0, 0, 50%);
     min-width: 34vw;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
 
 #img-header img {
     width: auto;
     height: auto;
-    max-width: 10rem;
-    max-height: 10rem;
+    max-width: 8rem;
+    max-height: 8rem;
     padding: 10px;
 }
 
